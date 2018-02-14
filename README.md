@@ -10,7 +10,7 @@ Predicting the number of newly discovered rare species: a Bayesian weight approa
 To install, please download the file RSE_1.0.tar.gz and save it into your local directory.
 Open R software, typing the following command:
 
-install.packages("your_local_directory/RSE_1.0.tar.gz",repose=NULL,type="source")
+install.packages("your_local_directory/RSE_1.0.tar.gz",repos=NULL,type="source")
 
 To use the RSE package in R, now load the package by typing the following command:
 
