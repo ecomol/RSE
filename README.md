@@ -17,9 +17,9 @@ To use the RSE package in R, now load the package by typing the following comman
 library(RSE)
 
 After that the package has been loaded in R environment, for the assistance about each function and the associated demonstrating example, 
-type the following command in R software (taking the function f.to.X() as an example):
+type the following command in R software (taking the function f.to.X() in the package as an example):
 
 ?f.to.X
 
 
-Further, readers are encouraged to download and read the R mannual for specific introductions about the function and the example demonstrated. 
+Further, readers are encouraged to download and read the R mannual for specific introductions about the functions and the examples demonstrated. 
