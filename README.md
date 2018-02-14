@@ -3,7 +3,7 @@ RSE is an R package for estimating the number of newly found rare species in add
 based on species diversity information (abundance or incidence) in original ecological samples. 
 The methods implemented in this R package include a Bayesian-weighted estimator and two unweighted estimators
 All the estimators have been described in detail in the following paper:
-Predicting the number of newly discovered rare species: a Bayesian weight approach. Under review (2018)
+Predicting the number of newly discovered rare species: a Bayesian weight approach. Under review in Conservation Biology (2018)
 
 
 To install, please download the file RSE_1.0.tar.gz and save it into your local directory.
