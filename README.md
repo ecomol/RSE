@@ -1,5 +1,5 @@
 # RSE
-RSE is an R package for estimating the number of newly found rare species in additional ecological samples, 
+RSE is an R package developed by Youhua Chen and Tsung-Jen Shen for estimating the number of newly found rare species in additional ecological samples, 
 based on species diversity information (abundance or incidence) in original ecological samples. 
 The methods implemented in this R package include a Bayesian-weighted estimator and two unweighted estimators.
 All the estimators have been described in detail in the following paper:
