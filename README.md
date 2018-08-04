@@ -7,10 +7,10 @@ All the estimators have been described in detail in the following paper:
 Shen TJ, Chen YH (2018). Predicting the number of newly discovered rare species: a Bayesian weight approach. Conservation Biology, In press.
 
 
-To install, please download the file RSE_1.0.tar.gz and save it into your local directory.
+To install, please download the file RSE_1.1.tar.gz and save it into your local directory.
 Open R software, and type the following command:
 
-install.packages("your_local_directory/RSE_1.0.tar.gz",repos=NULL,type="source")
+install.packages("your_local_directory/RSE_1.1.tar.gz",repos=NULL,type="source")
 
 To use the RSE package in R, now load the package by typing the following command:
 
