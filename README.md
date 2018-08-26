@@ -28,9 +28,9 @@ For a quick reference, readers are recommended to download and read the RSE-vign
 If you have any questions, please contact:
 
 
-Prof. Youhua Chen, email: haydi@126.com
+Prof. Youhua Chen, email: haydi@126.com;
 Address: CAS Key Laboratory of Mountain Ecological Restoration and Bioresource Utilization & Ecological Restoration and Biodiversity Conservation Key Laboratory of Sichuan Province, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041.
 
 
-Prof. Tsung-Jen Shen, email: tjshen@nchu.edu.tw
+Prof. Tsung-Jen Shen, email: tjshen@nchu.edu.tw;
 Address: Institute of Statistics & Department of Applied Mathematics, National Chung Hsing University, 250 Kuo Kuang Road, Taichung, 40227
