@@ -23,3 +23,14 @@ type the following command in R software (taking the function f.to.X() in the pa
 
 
 For a quick reference, readers are recommended to download and read the RSE-vignette.pdf to learn how to use the package quickly. Further, readers are also encouraged to download and read the R mannual for specific introductions about the functions and the examples demonstrated. 
+
+
+If you have any questions, please contact:
+
+
+Prof. Youhua Chen, email: haydi@126.com
+Address: CAS Key Laboratory of Mountain Ecological Restoration and Bioresource Utilization & Ecological Restoration and Biodiversity Conservation Key Laboratory of Sichuan Province, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041.
+
+
+Prof. Tsung-Jen Shen, email: tjshen@nchu.edu.tw
+Address: Institute of Statistics & Department of Applied Mathematics, National Chung Hsing University, 250 Kuo Kuang Road, Taichung, 40227
