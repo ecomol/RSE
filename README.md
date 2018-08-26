@@ -33,4 +33,4 @@ Address: CAS Key Laboratory of Mountain Ecological Restoration and Bioresource U
 
 
 Prof. Tsung-Jen Shen, email: tjshen@nchu.edu.tw;
-Address: Institute of Statistics & Department of Applied Mathematics, National Chung Hsing University, 250 Kuo Kuang Road, Taichung, 40227
+Address: Institute of Statistics & Department of Applied Mathematics, National Chung Hsing University, 250 Kuo Kuang Road, Taichung, 40227.
