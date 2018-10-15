@@ -25,9 +25,6 @@ type the following command in R software (taking the function f.to.X() in the pa
 For a quick reference, readers are recommended to download and read the RSE-vignette.pdf to learn how to use the package quickly. Further, readers are also encouraged to download and read the R mannual for specific introductions about the functions and the examples demonstrated. 
 
 
-Note:
-RSE (version 1.2) will be available from CRAN repository soon, users can easily install or update the package in R or RStudio enviornment.
-
 
 
 ------------------------------------------------------------------------------
@@ -35,7 +32,9 @@ RSE (version 1.2) will be available from CRAN repository soon, users can easily 
 
 Bug fixation reports:
 
-2018-10-13:
+2018-10-15:
+
+RSE(version 1.2) fixes the following bugs:
 
 1, Pred.Qk.BW and Pred.Fk.BW has been modified to restrict the loop runs from 1 to min(i,kmax) to avoid potential NA issue.
 
