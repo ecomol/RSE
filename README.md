@@ -34,9 +34,12 @@ RSE (version 1.2) will be available from CRAN repository soon, users can easily 
 
 
 Bug fixation reports:
+
 2018-10-13:
-1, Pred.Qk.BW and Pred.Fk.BW has been modified to restrict the loop runs from 1 to min(i,kmax) to avoid potential NA issue
-2, in Pred.abundance.rare function, k.show has been supplied for functions Pred.Fk.BW and Pred.Fk.unweighted
+
+1, Pred.Qk.BW and Pred.Fk.BW has been modified to restrict the loop runs from 1 to min(i,kmax) to avoid potential NA issue.
+
+2, in Pred.abundance.rare function, k.show has been supplied for functions Pred.Fk.BW and Pred.Fk.unweighted.
 
 
 -------------------------------------------------------------------------------
