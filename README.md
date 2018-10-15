@@ -1,16 +1,16 @@
 # RSE
-RSE is an R package (version 1.1) developed by Youhua Chen and Tsung-Jen Shen for estimating the number of newly found rare species in additional ecological samples, 
+RSE is an R package (newest version: 1.2) developed by Youhua Chen and Tsung-Jen Shen for estimating the number of newly found rare species in additional ecological samples, 
 based on species diversity information (abundance or incidence) in original ecological samples. 
 The methods implemented in this R package include a Bayesian-weighted estimator and two unweighted estimators.
 All the estimators have been described in detail in the following paper:
 
-Shen TJ, Chen YH (2018). A Bayesian weighted approach to predicting the number of newly discovered rare species. Conservation Biology, In press.
+Shen TJ, Chen YH (2018) A Bayesian weighted approach to predicting the number of newly discovered rare species. Conservation Biology, In press.
 
 
-To install, please download the file RSE_1.1.tar.gz and save it into your local directory.
+To install, please download the file RSE_1.2.tar.gz and save it into your local directory.
 Open R software, and type the following command:
 
-install.packages("your_local_directory/RSE_1.1.tar.gz",repos=NULL,type="source")
+install.packages("your_local_directory/RSE_1.2.tar.gz",repos=NULL,type="source")
 
 To use the RSE package in R, now load the package by typing the following command:
 
@@ -23,6 +23,23 @@ type the following command in R software (taking the function f.to.X() in the pa
 
 
 For a quick reference, readers are recommended to download and read the RSE-vignette.pdf to learn how to use the package quickly. Further, readers are also encouraged to download and read the R mannual for specific introductions about the functions and the examples demonstrated. 
+
+
+Note:
+RSE (version 1.2) will be available from CRAN repository soon, users can easily install or update the package in R or RStudio enviornment.
+
+
+
+------------------------------------------------------------------------------
+
+
+Bug fixation reports:
+2018-10-13:
+1, Pred.Qk.BW and Pred.Fk.BW has been modified to restrict the loop runs from 1 to min(i,kmax) to avoid potential NA issue
+2, in Pred.abundance.rare function, k.show has been supplied for functions Pred.Fk.BW and Pred.Fk.unweighted
+
+
+-------------------------------------------------------------------------------
 
 
 If you have any questions, please contact:
