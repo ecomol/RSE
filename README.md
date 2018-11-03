@@ -34,7 +34,9 @@ Note: Since October 20th, RSE package is also available from CRAN repository, th
 
 
 Bug fixation reports:
+
 2018-11-03：
+
 RSE (version 1.3) fixes a bug on the bootstrapping procedure. Thanks Wenyan Zhang for reporting the bug.
 
 2018-10-15:
