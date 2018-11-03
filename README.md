@@ -1,5 +1,5 @@
 # RSE
-RSE is an R package (newest version: 1.2) developed by Youhua Chen and Tsung-Jen Shen for estimating the number of newly found rare species in additional ecological samples, 
+RSE is an R package (newest version: 1.3) developed by Youhua Chen and Tsung-Jen Shen for estimating the number of newly found rare species in additional ecological samples, 
 based on species diversity information (abundance or incidence) in original ecological samples. 
 The methods implemented in this R package include a Bayesian-weighted estimator and two unweighted estimators.
 All the estimators have been described in detail in the following paper:
@@ -7,10 +7,10 @@ All the estimators have been described in detail in the following paper:
 Shen TJ, Chen YH (2018) A Bayesian weighted approach to predicting the number of newly discovered rare species. Conservation Biology, In press.
 
 
-To install, please download the file RSE_1.2.tar.gz and save it into your local directory.
+To install, please download the file RSE_1.3.tar.gz and save it into your local directory.
 Open R software, and type the following command:
 
-install.packages("your_local_directory/RSE_1.2.tar.gz",repos=NULL,type="source")
+install.packages("your_local_directory/RSE_1.3.tar.gz",repos=NULL,type="source")
 
 To use the RSE package in R, now load the package by typing the following command:
 
@@ -34,6 +34,8 @@ Note: Since October 20th, RSE package is also available from CRAN repository, th
 
 
 Bug fixation reports:
+2018-11-03：
+RSE (version 1.3) fixes a bug on the bootstrapping procedure. Thanks Wenyan Zhang for reporting the bug.
 
 2018-10-15:
 
