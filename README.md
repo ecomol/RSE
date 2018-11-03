@@ -26,7 +26,7 @@ For a quick reference, readers are recommended to download and read the RSE-vign
 
 
 
-Note: Since October 20th, RSE package is also available from CRAN repository, the link is https://CRAN.R-project.org/package=RSE
+Note: Since October 20th, RSE package is also available from CRAN repository, the link is https://CRAN.R-project.org/package=RSE. However, the latest updated version will be always posted in this Github repository.
 
 
 
