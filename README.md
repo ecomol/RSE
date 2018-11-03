@@ -22,7 +22,7 @@ type the following command in R software (taking the function f.to.X() in the pa
 ?f.to.X
 
 
-For a quick reference, readers are recommended to download and read the RSE-vignette.pdf to learn how to use the package quickly. Further, readers are also encouraged to download and read the R mannual for specific introductions about the functions and the examples demonstrated. 
+For a quick reference, readers are recommended to download and read the RSE-vignette.pdf to learn how to use the package quickly. Further, readers are also encouraged to download and read the R-mannual.pdf for specific introductions about the functions and the examples demonstrated. 
 
 
 
