@@ -4,7 +4,7 @@ based on species diversity information (abundance or incidence) in original ecol
 The methods implemented in this R package include a Bayesian-weighted estimator and two unweighted estimators.
 All the estimators have been described in detail in the following paper:
 
-Shen TJ, Chen YH (2018) A Bayesian weighted approach to predicting the number of newly discovered rare species. Conservation Biology, doi: 10.1111/cobi.13253.
+Shen TJ, Chen YH (2019) A Bayesian weighted approach to predicting the number of newly discovered rare species. Conservation Biology, 33, 444-455.
 
 
 To install, please download the file RSE_1.3.tar.gz and save it into your local directory.
